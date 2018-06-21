@@ -1,0 +1,14 @@
+.memberPhoto {
+  width: 200px;
+  border-radius: 50%;
+}
+
+.TeamMember {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 300px;
+  max-height: 400px;
+  padding-top: 50px;
+}
